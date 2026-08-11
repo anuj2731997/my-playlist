@@ -2,9 +2,12 @@
 
 A modern, minimal Next.js web application designed to load and play your personal Spotify playlists with a luxury dark aesthetic interface.
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel)](https://myspotify-olive.vercel.app/)
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)
 ![License](https://img.shields.io/badge/License-MIT-gold?style=flat-square)
+
+🌐 **Live Demo**: [https://myspotify-olive.vercel.app/](https://myspotify-olive.vercel.app/)
 
 ---
 
@@ -17,6 +20,13 @@ A modern, minimal Next.js web application designed to load and play your persona
   - **Curated Soundscapes**: Quick switcher for preset playlists.
 - **Minimal & Aesthetic Dark Design**: Built with luxury dark gold typography, soft ambient background glow (`.ambient-bg`), and responsive glassmorphism.
 - **Smart Spotify Login Detection**: Non-intrusive toast banner guiding unauthenticated users to log into Spotify for uncapped track streaming.
+
+---
+
+## 🌐 Live Demo
+
+Visit the live production deployment on Vercel:
+👉 **[https://myspotify-olive.vercel.app/](https://myspotify-olive.vercel.app/)**
 
 ---
 
